@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "-": "0.0.1",
-    "angular-expressions": "^1.1.3",
+    "angular-expressions": "^1.1.4",
     "npmconf": "0.0.24"
   }
 }
